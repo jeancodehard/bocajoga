@@ -39,7 +39,7 @@ const socialLinks = [
   },
   {
     name: "Discord",
-    url: "https://www.instagram.com/bocajoga/",
+    url: "https://discord.gg/JRZerx9A",
     icon: DiscordIcon,
   },
 ];
